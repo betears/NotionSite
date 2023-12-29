@@ -3,9 +3,9 @@ import { Button, Collapse, InputAdornment, TextField } from "@material-ui/core";
 import code from "./code";
 import "./styles.css";
 
-const DEFAULT_DOMAIN = "fruitionsite.com";
+const DEFAULT_DOMAIN = "vhr.hr";
 const DEFAULT_NOTION_URL =
-  "https://stephenou.notion.site/771ef38657244c27b9389734a9cbff44";
+  "https://wyiyy.notion.site/wyiyy/95be1af62e3f453a87325647aadc9f60";
 
 function validDomain(domain) {
   return domain.match(
