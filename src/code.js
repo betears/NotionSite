@@ -23,7 +23,7 @@ export default function code(data) {
 
     return `  /* CONFIGURATION STARTS HERE */
   
-  /* Step 1: enter your domain name like fruitionsite.com */
+  /* Step 1: enter your domain name like vhr.hr */
   const MY_DOMAIN = '${url}';
   
   /*
